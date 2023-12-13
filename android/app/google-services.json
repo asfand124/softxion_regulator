@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "81865508889",
+    "project_id": "softxion-d9328",
+    "storage_bucket": "softxion-d9328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81865508889:android:029a1e8541b3c37e260288",
+        "android_client_info": {
+          "package_name": "com.example.softxion_hr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN7AvpJXCpX9IRp7vcj3778u_XDDEVIp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81865508889:android:2a936de2611f5935260288",
+        "android_client_info": {
+          "package_name": "com.example.softxion_regulator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN7AvpJXCpX9IRp7vcj3778u_XDDEVIp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
