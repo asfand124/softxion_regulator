@@ -69,7 +69,7 @@ class _IpConfigerState extends State<IpConfiger> {
               child: Column(children: [
                 Text(
                   'Ip From Db',
-                  style: TextStyle(color: colo),
+                  style: TextStyle(),
                 ),
                 Text('$_IpFromDb'),
               ]),
