@@ -4,14 +4,19 @@ publish_to: 'none'
 version: 0.1.0
 
 environment:
-  sdk: '>=3.2.2 <4.0.0'
+  sdk: '>=3.1.5 <4.0.0'
 
 dependencies:
   cloud_firestore: ^4.13.5
   firebase_core: ^2.24.2
   flutter:
     sdk: flutter
-  http: ^1.1.2
+  google_fonts: ^6.1.0
+  http: ^1.1.0
+  simple_animated_button: ^0.0.6
+  simple_animation_transition: ^0.0.6
+  simple_animations: ^5.0.2
+ 
 
 dev_dependencies:
   flutter_test:
